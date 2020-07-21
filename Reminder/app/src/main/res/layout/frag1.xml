@@ -8,7 +8,7 @@
     tools:context=".ui.main.PlaceholderFragment">
 
     <TextView
-        android:id="@+id/section_label"
+        android:id="@+id/section_label1"
         android:layout_width="315dp"
         android:layout_height="79dp"
         android:layout_marginStart="48dp"
@@ -20,5 +20,6 @@
         tools:layout_constraintLeft_creator="1"
         tools:layout_constraintTop_creator="1"
         android:text="frag1"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
